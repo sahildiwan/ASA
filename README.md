@@ -1,4 +1,1 @@
-ASA
-===
-
-African Student Association at the University of Oregon
+ASA @ UO -- http://pages.uoregon.edu/asa/
