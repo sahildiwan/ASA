@@ -1,1 +1,3 @@
-ASA @ UO -- http://pages.uoregon.edu/asa/
+## ASA @ UO ##
+
+Visit : http://pages.uoregon.edu/asa/
